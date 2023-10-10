@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128.4" height="107.64" viewBox="0 0 128.4 107.64">
+  <g id="update_top" transform="translate(-203.1 -126.08)">
+    <rect id="Rectángulo_1" data-name="Rectángulo 1" width="71.57" height="71.57" rx="9.76" transform="translate(234.57 153.15)" fill="#ff725e"/>
+    <path id="Trazado_12" data-name="Trazado 12" d="M215.68,179.18l1.73,3.5,3.86.56-2.8,2.72.66,3.84-3.45-1.81-3.45,1.81.66-3.84-2.79-2.72,3.86-.56Z" fill="#ff725e"/>
+    <path id="Trazado_13" data-name="Trazado 13" d="M327.18,144.53l1.33,2.7,2.99.44-2.16,2.1.51,2.97-2.67-1.4-2.67,1.4.51-2.97-2.16-2.1,2.99-.44Z" fill="#ff725e"/>
+    <path id="Trazado_14" data-name="Trazado 14" d="M324.56,209.38l1.15,1.57,1.95-.06-1.13,1.58.66,1.84-1.86-.59-1.54,1.19-.01-1.95-1.61-1.09,1.85-.62Z" fill="#ff725e"/>
+    <path id="Trazado_15" data-name="Trazado 15" d="M214.36,156a1.83,1.83,0,1,1,1.82-1.82,1.83,1.83,0,0,1-1.82,1.82Zm0-2.65a.345.345,0,1,0,0-.03Z" fill="#ff725e"/>
+    <path id="Trazado_16" data-name="Trazado 16" d="M317.54,181.2a1.83,1.83,0,1,1,1.82-1.82A1.83,1.83,0,0,1,317.54,181.2Zm0-2.65a.83.83,0,1,0,.82.83.83.83,0,0,0-.82-.83Z" fill="#ff725e"/>
+    <path id="Trazado_17" data-name="Trazado 17" d="M293.72,142.68a1.82,1.82,0,1,1,1.293-.53A1.83,1.83,0,0,1,293.72,142.68Zm0-2.65a.347.347,0,1,0,0-.03Z" fill="#ff725e"/>
+    <circle id="Elipse_1" data-name="Elipse 1" cx="1.33" cy="1.33" r="1.33" transform="translate(203.1 212.14)" fill="#ff725e"/>
+    <path id="Trazado_18" data-name="Trazado 18" d="M266.87,232.39a1.32,1.32,0,1,1-.387-.943,1.33,1.33,0,0,1,.387.943Z" fill="#ff725e"/>
+    <circle id="Elipse_2" data-name="Elipse 2" cx="1.33" cy="1.33" r="1.33" transform="translate(251.36 126.08)" fill="#ff725e"/>
+  </g>
+</svg>

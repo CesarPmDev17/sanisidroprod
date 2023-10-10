@@ -1,0 +1,4 @@
+enum AuthUserType {
+  guest,
+  authed,
+}

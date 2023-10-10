@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125.513" height="104.594" viewBox="0 0 125.513 104.594">
+  <g id="barra-grafica" transform="translate(-1.479 -35.198)">
+    <g id="Grupo_397" data-name="Grupo 397" transform="translate(1.479 37.29)">
+      <g id="Grupo_396" data-name="Grupo 396">
+        <path id="Trazado_240" data-name="Trazado 240" d="M129.077,66.822a2.092,2.092,0,0,0-2.092,2.092V165.14H7.748a2.092,2.092,0,0,0,0,4.184H129.077a2.092,2.092,0,0,0,2.092-2.092V68.914A2.092,2.092,0,0,0,129.077,66.822Z" transform="translate(-5.656 -66.822)"/>
+      </g>
+    </g>
+    <g id="Grupo_399" data-name="Grupo 399" transform="translate(11.938 81.219)">
+      <g id="Grupo_398" data-name="Grupo 398">
+        <path id="Trazado_241" data-name="Trazado 241" d="M72.85,234.822h-25.1a2.092,2.092,0,0,0-2.092,2.092v46.021a2.092,2.092,0,0,0,2.092,2.092h25.1a2.092,2.092,0,0,0,2.092-2.092V236.914A2.092,2.092,0,0,0,72.85,234.822Zm-2.092,46.021H49.84V239.006H70.759Z" transform="translate(-45.656 -234.822)"/>
+      </g>
+    </g>
+    <g id="Grupo_401" data-name="Grupo 401" transform="translate(49.592 56.116)">
+      <g id="Grupo_400" data-name="Grupo 400">
+        <path id="Trazado_242" data-name="Trazado 242" d="M216.85,138.822h-25.1a2.092,2.092,0,0,0-2.092,2.092v71.124a2.092,2.092,0,0,0,2.092,2.092h25.1a2.092,2.092,0,0,0,2.092-2.092V140.914A2.092,2.092,0,0,0,216.85,138.822Zm-2.092,71.124H193.84v-66.94h20.919Z" transform="translate(-189.656 -138.822)"/>
+      </g>
+    </g>
+    <g id="Grupo_403" data-name="Grupo 403" transform="translate(87.246 35.198)">
+      <g id="Grupo_402" data-name="Grupo 402">
+        <path id="Trazado_243" data-name="Trazado 243" d="M360.85,58.822h-25.1a2.092,2.092,0,0,0-2.092,2.092v92.043a2.092,2.092,0,0,0,2.092,2.092h25.1a2.092,2.092,0,0,0,2.092-2.092V60.914A2.092,2.092,0,0,0,360.85,58.822Zm-2.092,92.043H337.84V63.006h20.919Z" transform="translate(-333.656 -58.822)"/>
+      </g>
+    </g>
+  </g>
+</svg>

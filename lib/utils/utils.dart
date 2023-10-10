@@ -1,0 +1,36 @@
+import 'dart:convert';
+import 'dart:io';
+import 'dart:math';
+import 'dart:typed_data';
+import 'dart:ui' as ui;
+
+import 'package:app_san_isidro/data/providers/modulos_app_provider.dart';
+import 'package:app_san_isidro/modules/misc/error/misc_error_controller.dart';
+import 'package:app_san_isidro/routes/app_pages.dart';
+import 'package:app_san_isidro/themes/ak_ui.dart';
+import 'package:app_san_isidro/widgets/widgets.dart';
+import 'package:connectivity_plus/connectivity_plus.dart';
+import 'package:dart_ipify/dart_ipify.dart';
+import 'package:date_format/date_format.dart';
+import 'package:device_info_plus/device_info_plus.dart';
+import 'package:dio/dio.dart';
+import 'package:flutter/foundation.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter/rendering.dart';
+import 'package:freezed_annotation/freezed_annotation.dart';
+import 'package:geolocator/geolocator.dart';
+import 'package:get/get.dart';
+import 'package:google_maps_flutter/google_maps_flutter.dart';
+import 'package:logger/logger.dart';
+
+part 'api_exception.dart';
+part 'custom_exceptions.dart';
+part 'device_info.dart';
+part 'dio_client.dart';
+part 'extensions.dart';
+part 'geolocator_helpers.dart';
+part 'helpers.dart';
+part 'network_exceptions.dart';
+part 'niubiz_helpers.dart';
+part 'transparent_image.dart';
+part 'try_catch.dart';

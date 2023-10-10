@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="99.797" height="96.223" viewBox="0 0 99.797 96.223">
+  <g id="barra-grafica" transform="translate(0 -26.833)">
+    <g id="Grupo_405" data-name="Grupo 405" transform="translate(0 26.833)">
+      <g id="Grupo_404" data-name="Grupo 404">
+        <path id="Trazado_244" data-name="Trazado 244" d="M64.453,26.845a2.078,2.078,0,0,0-.442,0L45.185,28.937a2.092,2.092,0,0,0-1.255,3.556l6.889,6.889L34.949,55.25l-4.8-4.8a2.092,2.092,0,0,0-2.958,0l-25.1,25.1C.937,75.556,0,75.88,0,77.035s.937,2.092,2.092,1.479a2.092,2.092,0,0,0,2.958,0L28.673,54.891l4.8,4.8a2.092,2.092,0,0,0,2.958,0L53.776,42.339l6.889,6.889a2.092,2.092,0,0,0,3.556-1.255l2.092-18.827A2.092,2.092,0,0,0,64.453,26.845ZM60.545,43.191,49.967,32.612l11.9-1.322Z" transform="translate(0 -26.833)"/>
+      </g>
+    </g>
+    <g id="Grupo_407" data-name="Grupo 407" transform="translate(20.306 114.689)">
+      <g id="Grupo_406" data-name="Grupo 406" transform="translate(0 0)">
+        <path id="Trazado_245" data-name="Trazado 245" d="M79.748,362.822a2.092,2.092,0,0,0-2.092,2.092V369.1a2.092,2.092,0,1,0,4.184,0v-4.184A2.092,2.092,0,0,0,79.748,362.822Z" transform="translate(-77.656 -362.822)"/>
+      </g>
+    </g>
+    <g id="Grupo_409" data-name="Grupo 409" transform="translate(20.306 97.954)">
+      <g id="Grupo_408" data-name="Grupo 408">
+        <path id="Trazado_246" data-name="Trazado 246" d="M79.748,298.822a2.092,2.092,0,0,0-2.092,2.092v8.367a2.092,2.092,0,1,0,4.184,0v-8.367A2.092,2.092,0,0,0,79.748,298.822Z" transform="translate(-77.656 -298.822)"/>
+      </g>
+    </g>
+    <g id="Grupo_411" data-name="Grupo 411" transform="translate(57.96 114.689)">
+      <g id="Grupo_410" data-name="Grupo 410" transform="translate(0 0)">
+        <path id="Trazado_247" data-name="Trazado 247" d="M223.748,362.822a2.092,2.092,0,0,0-2.092,2.092V369.1a2.092,2.092,0,1,0,4.184,0v-4.184A2.092,2.092,0,0,0,223.748,362.822Z" transform="translate(-221.656 -362.822)"/>
+      </g>
+    </g>
+    <g id="Grupo_413" data-name="Grupo 413" transform="translate(57.96 85.403)">
+      <g id="Grupo_412" data-name="Grupo 412">
+        <path id="Trazado_248" data-name="Trazado 248" d="M223.748,250.822a2.092,2.092,0,0,0-2.092,2.092v20.919a2.092,2.092,0,0,0,4.184,0V252.914A2.092,2.092,0,0,0,223.748,250.822Z" transform="translate(-221.656 -250.822)"/>
+      </g>
+    </g>
+    <g id="Grupo_415" data-name="Grupo 415" transform="translate(95.613 114.689)">
+      <g id="Grupo_414" data-name="Grupo 414" transform="translate(0 0)">
+        <path id="Trazado_249" data-name="Trazado 249" d="M367.748,362.822a2.092,2.092,0,0,0-2.092,2.092V369.1a2.092,2.092,0,1,0,4.184,0v-4.184A2.092,2.092,0,0,0,367.748,362.822Z" transform="translate(-365.656 -362.822)"/>
+      </g>
+    </g>
+    <g id="Grupo_417" data-name="Grupo 417" transform="translate(95.613 64.484)">
+      <g id="Grupo_416" data-name="Grupo 416" transform="translate(0 0)">
+        <path id="Trazado_250" data-name="Trazado 250" d="M367.748,170.822a2.092,2.092,0,0,0-2.092,2.092v41.838a2.092,2.092,0,1,0,4.184,0V172.914A2.092,2.092,0,0,0,367.748,170.822Z" transform="translate(-365.656 -170.822)"/>
+      </g>
+    </g>
+  </g>
+</svg>

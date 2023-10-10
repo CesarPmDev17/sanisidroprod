@@ -1,0 +1,399 @@
+[
+  {
+    "CodigoRespuesta": "00",
+    "Respuesta": "OK",
+    "HorarioParadero": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-77.0127437184406, -12.1005355609322]
+          },
+          "properties": {
+            "id": 39,
+            "descripcion": "Calle Orden y Libertad cuadra 1",
+            "horario": [
+              { "horario": "07:00:00" },
+              { "horario": "09:00:00" },
+              { "horario": "10:00:00" },
+              { "horario": "11:00:00" },
+              { "horario": "12:00:00" },
+              { "horario": "13:00:00" },
+              { "horario": "14:00:00" },
+              { "horario": "15:00:00" },
+              { "horario": "16:00:00" }
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-77.0106320910479, -12.0923187331012]
+          },
+          "properties": {
+            "id": 40,
+            "descripcion": "Av. Del Parque Norte con calle Luis Aldama ",
+            "horario": [
+              { "horario": "07:03:00" },
+              { "horario": "09:03:00" },
+              { "horario": "10:03:00" },
+              { "horario": "11:03:00" },
+              { "horario": "12:03:00" },
+              { "horario": "13:03:00" },
+              { "horario": "14:03:00" },
+              { "horario": "15:03:00" },
+              { "horario": "16:03:00" }
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-77.0180320004022, -12.09223299964]
+          },
+          "properties": {
+            "id": 36,
+            "descripcion": "Av. Del Parque Norte Cuadra 1",
+            "horario": [
+              { "horario": "07:06:00" },
+              { "horario": "09:06:00" },
+              { "horario": "10:06:00" },
+              { "horario": "11:06:00" },
+              { "horario": "12:06:00" },
+              { "horario": "13:06:00" },
+              { "horario": "14:06:00" },
+              { "horario": "15:06:00" },
+              { "horario": "16:06:00" }
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-77.0168200001857, -12.0936150002336]
+          },
+          "properties": {
+            "id": 37,
+            "descripcion": "Calle los Risueñores Este  cuadra 1",
+            "horario": [
+              { "horario": "07:09:00" },
+              { "horario": "09:09:00" },
+              { "horario": "10:09:00" },
+              { "horario": "11:09:00" },
+              { "horario": "12:09:00" },
+              { "horario": "13:09:00" },
+              { "horario": "14:09:00" },
+              { "horario": "15:09:00" },
+              { "horario": "16:09:00" }
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-77.0152618824727, -12.0970959934522]
+          },
+          "properties": {
+            "id": 35,
+            "descripcion": "Calle 21 cuadra 7",
+            "horario": [
+              { "horario": "07:12:00" },
+              { "horario": "09:12:00" },
+              { "horario": "10:12:00" },
+              { "horario": "11:12:00" },
+              { "horario": "12:12:00" },
+              { "horario": "13:12:00" },
+              { "horario": "14:12:00" },
+              { "horario": "15:12:00" },
+              { "horario": "16:12:00" }
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-77.0216509996912, -12.0970219997464]
+          },
+          "properties": {
+            "id": 31,
+            "descripcion": "Av. Canaval Moreyra cuadra 6",
+            "horario": [
+              { "horario": "07:15:00" },
+              { "horario": "09:15:00" },
+              { "horario": "10:15:00" },
+              { "horario": "11:15:00" },
+              { "horario": "12:15:00" },
+              { "horario": "13:15:00" },
+              { "horario": "14:15:00" },
+              { "horario": "15:15:00" },
+              { "horario": "16:15:00" }
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-77.0267386379414, -12.0962922720398]
+          },
+          "properties": {
+            "id": 29,
+            "descripcion": "Av. Canaval Moreyra cuadra 4",
+            "horario": [
+              { "horario": "07:18:00" },
+              { "horario": "09:18:00" },
+              { "horario": "10:18:00" },
+              { "horario": "11:18:00" },
+              { "horario": "12:18:00" },
+              { "horario": "13:18:00" },
+              { "horario": "14:18:00" },
+              { "horario": "15:18:00" },
+              { "horario": "16:18:00" }
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-77.0337004916984, -12.0969465084419]
+          },
+          "properties": {
+            "id": 26,
+            "descripcion": "Av. Juan De Arona cuadra 7",
+            "horario": [
+              { "horario": "07:21:00" },
+              { "horario": "09:21:00" },
+              { "horario": "10:21:00" },
+              { "horario": "11:21:00" },
+              { "horario": "12:21:00" },
+              { "horario": "13:21:00" },
+              { "horario": "14:21:00" },
+              { "horario": "15:21:00" },
+              { "horario": "16:21:00" }
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-77.0344779997844, -12.099434999581]
+          },
+          "properties": {
+            "id": 41,
+            "descripcion": "Av. Daniel Hernandez con Paz Soldan",
+            "horario": [
+              { "horario": "07:24:00" },
+              { "horario": "09:24:00" },
+              { "horario": "10:24:00" },
+              { "horario": "11:24:00" },
+              { "horario": "12:24:00" },
+              { "horario": "13:24:00" },
+              { "horario": "14:24:00" },
+              { "horario": "15:24:00" },
+              { "horario": "16:24:00" }
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-77.0324447542499, -12.099790124638]
+          },
+          "properties": {
+            "id": 23,
+            "descripcion": "Av.choquehuanca cuadra 4",
+            "horario": [
+              { "horario": "07:27:00" },
+              { "horario": "09:27:00" },
+              { "horario": "10:27:00" },
+              { "horario": "11:27:00" },
+              { "horario": "12:27:00" },
+              { "horario": "13:27:00" },
+              { "horario": "14:27:00" },
+              { "horario": "15:27:00" },
+              { "horario": "16:27:00" }
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-77.0267734921324, -12.0971558730079]
+          },
+          "properties": {
+            "id": 28,
+            "descripcion": "AV.choquehuanca cuadra 1",
+            "horario": [
+              { "horario": "09:30:00" },
+              { "horario": "10:30:00" },
+              { "horario": "11:30:00" },
+              { "horario": "12:30:00" },
+              { "horario": "13:30:00" },
+              { "horario": "14:30:00" },
+              { "horario": "15:30:00" },
+              { "horario": "16:30:00" }
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-77.0241370001557, -12.0970110000639]
+          },
+          "properties": {
+            "id": 30,
+            "descripcion": "Calle Augusto Tamayo cuadra 1",
+            "horario": [
+              { "horario": "09:33:00" },
+              { "horario": "10:33:00" },
+              { "horario": "11:33:00" },
+              { "horario": "12:33:00" },
+              { "horario": "13:33:00" },
+              { "horario": "14:33:00" },
+              { "horario": "15:33:00" },
+              { "horario": "16:33:00" }
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-77.0239940002089, -12.1002559996684]
+          },
+          "properties": {
+            "id": 27,
+            "descripcion": "Av. Canaval y Moreyra cuadra 1",
+            "horario": [
+              { "horario": "09:36:00" },
+              { "horario": "10:36:00" },
+              { "horario": "11:36:00" },
+              { "horario": "12:36:00" },
+              { "horario": "13:36:00" },
+              { "horario": "14:36:00" },
+              { "horario": "15:36:00" },
+              { "horario": "16:36:00" }
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-77.0204340002994, -12.0995459997112]
+          },
+          "properties": {
+            "id": 34,
+            "descripcion": "Av.Del Parque con calle los Cisnes",
+            "horario": [
+              { "horario": "09:39:00" },
+              { "horario": "10:39:00" },
+              { "horario": "11:39:00" },
+              { "horario": "12:39:00" },
+              { "horario": "13:39:00" },
+              { "horario": "14:39:00" },
+              { "horario": "15:39:00" },
+              { "horario": "16:39:00" }
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-77.016471000123, -12.1015620003306]
+          },
+          "properties": {
+            "id": 33,
+            "descripcion": "Calle los Halcones cuadra 2",
+            "horario": [
+              { "horario": "09:42:00" },
+              { "horario": "10:42:00" },
+              { "horario": "11:42:00" },
+              { "horario": "12:42:00" },
+              { "horario": "13:42:00" },
+              { "horario": "14:42:00" },
+              { "horario": "15:42:00" },
+              { "horario": "16:42:00" }
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-77.0151500001821, -12.1032450000548]
+          },
+          "properties": {
+            "id": 32,
+            "descripcion": "Calle 34 cuadra 2",
+            "horario": [
+              { "horario": "09:45:00" },
+              { "horario": "10:45:00" },
+              { "horario": "11:45:00" },
+              { "horario": "12:45:00" },
+              { "horario": "13:45:00" },
+              { "horario": "14:45:00" },
+              { "horario": "15:45:00" },
+              { "horario": "16:45:00" }
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-77.0123530324897, -12.106770953226]
+          },
+          "properties": {
+            "id": 42,
+            "descripcion": "Av.Parque Sur cuadra 2",
+            "horario": [
+              { "horario": "09:48:00" },
+              { "horario": "10:48:00" },
+              { "horario": "11:48:00" },
+              { "horario": "12:48:00" },
+              { "horario": "13:48:00" },
+              { "horario": "14:48:00" },
+              { "horario": "15:48:00" },
+              { "horario": "16:48:00" }
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-77.0119096182517, -12.1043469364012]
+          },
+          "properties": {
+            "id": 38,
+            "descripcion": "Calle 25 con calle 31",
+            "horario": [
+              { "horario": "09:51:00" },
+              { "horario": "10:51:00" },
+              { "horario": "11:51:00" },
+              { "horario": "12:51:00" },
+              { "horario": "13:51:00" },
+              { "horario": "14:51:00" },
+              { "horario": "15:51:00" },
+              { "horario": "16:51:00" }
+            ]
+          }
+        }
+      ]
+    }
+  }
+]

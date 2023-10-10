@@ -1,0 +1,133 @@
+name: app_san_isidro
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 5.3.2+137
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  agora_rtc_engine: ^5.2.0
+  android_intent_plus: ^4.0.0
+  animate_do: ^2.0.0
+  cached_network_image: ^3.2.0
+  carousel_slider: ^4.0.0
+  connectivity_plus: ^1.1.0
+  cupertino_icons: ^1.0.2
+  dart_ipify: ^1.1.1
+  date_format: ^2.0.4
+  device_info_plus: ^3.2.2
+  dio: ^4.0.0
+  dotted_border: ^2.0.0+1
+  dotted_line: ^3.0.1
+  expandable: ^5.0.1
+  flutter:
+    sdk: flutter
+  flutter_keyboard_visibility: ^5.4.0
+  flutter_localizations:
+    sdk: flutter
+  flutter_phone_direct_caller: ^2.1.1
+  flutter_rating_bar: ^4.0.0
+  flutter_staggered_grid_view: ^0.6.2
+  flutter_svg: ^0.22.0
+  flutter_zoom_drawer: ^2.1.1
+  freezed_annotation: ^2.0.0
+  geolocator: ^9.0.2
+  get: ^4.3.8
+  get_storage: ^2.0.3
+  google_maps_flutter: ^2.0.8
+  intl: ^0.17.0
+  location: ^4.3.0
+  logger: ^1.1.0
+  lottie: ^1.2.1
+  mask_text_input_formatter: ^2.0.0
+  mime_type: ^1.0.0
+  modal_bottom_sheet: ^3.0.0-pre
+  native_pdf_view: ^6.0.0
+  package_info_plus: ^1.0.6
+  path_provider: ^2.0.4
+  permission_handler: ^10.3.0
+  photo_view: ^0.13.0
+  skeleton_text: ^3.0.0
+  table_calendar: ^3.0.6
+  timeago: ^3.2.2
+  upgrader: ^4.6.0
+  url_launcher: ^6.0.17
+  visibility_detector: ^0.2.2
+  webview_flutter: ^3.0.4
+  youtube_player_flutter: ^8.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+    - assets/img/
+    - assets/lottie/
+
+  fonts:
+    - family: Rubik
+      fonts:
+        - asset: assets/fonts/Rubik/Rubik-Light.ttf
+          weight: 200
+        - asset: assets/fonts/Rubik/Rubik-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Rubik/Rubik-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Rubik/Rubik-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Rubik/Rubik-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Rubik/Rubik-ExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/Rubik/Rubik-Black.ttf
+          weight: 900
+
+    - family: Lato
+      fonts:
+        - asset: assets/fonts/Lato/Lato-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Lato/Lato-LightItalic.ttf
+          weight: 300
+          style: italic
+        - asset: assets/fonts/Lato/Lato-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Lato/Lato-Italic.ttf
+          weight: 400
+          style: italic
+        - asset: assets/fonts/Lato/Lato-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Lato/Lato-MediumItalic.ttf
+          weight: 500
+          style: italic
+        - asset: assets/fonts/Lato/Lato-Semibold.ttf
+          weight: 600
+        - asset: assets/fonts/Lato/Lato-SemiboldItalic.ttf
+          weight: 600
+          style: italic
+        - asset: assets/fonts/Lato/Lato-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Lato/Lato-BoldItalic.ttf
+          weight: 700
+          style: italic
+        - asset: assets/fonts/Lato/Lato-Black.ttf
+          weight: 900
+        - asset: assets/fonts/Lato/Lato-BlackItalic.ttf
+          weight: 900
+          style: italic
+
+    - family: Gisha
+      fonts:
+        - asset: assets/fonts/Gisha/Gisha.ttf
+          weight: 300
+        - asset: assets/fonts/Gisha/Gisha-Bold.ttf
+          weight: 700
+
+
+
