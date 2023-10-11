@@ -18,7 +18,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   dart_ipify: ^1.1.1
   date_format: ^2.0.4
-  device_info_plus: ^10.0.0
+  device_info_plus: ^3.2.1
   dio: ^4.0.0
   dotted_border: ^2.0.0+1
   dotted_line: ^3.0.1
