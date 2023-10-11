@@ -46,10 +46,10 @@ dependencies:
   mime_type: ^1.0.0
   modal_bottom_sheet: ^3.0.0-pre
   native_pdf_view: ^6.0.0
-  package_info_plus: ^1.0.6
+  package_info_plus: ^5.0.0
   path_provider: ^2.0.4
   permission_handler: ^10.3.0
-  photo_view: ^0.13.0
+  photo_view: ^0.14.0
   skeleton_text: ^3.0.0
   table_calendar: ^3.0.6
   timeago: ^3.2.2
